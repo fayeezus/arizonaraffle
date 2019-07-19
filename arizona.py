@@ -25,7 +25,7 @@ def arizona_raffle():
 			'ADDRESS[zip]' : '', #zipcode
 			'ADDRESS[country]' : '', #country value 146 for USA view https://niggabin.com/unevimiluw.js for other countries value
             'MMERGE5': '',  # size values in https://niggabin.com/usitucelic.xml
-            'MERGE5': '',  # for style values in https://niggabin.com/olivoxezef.xml
+            'MMERGE4': '',  # for style values in https://niggabin.com/olivoxezef.xml
             'subscribe': "Submit",  # don't change
         }
 
