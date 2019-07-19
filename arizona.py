@@ -16,14 +16,14 @@ def arizona_raffle():
         info = {
             'FNAME': 'Joe',  # first name
             'LNAME': 'Shmoe',  # last name
-	        'EMAIL': 'email+{}@gmail.com'.format(random.randint(1,10000)),  # email, don't change end
-			'MMERGE3': '6062892345',  # phone number
+	    'EMAIL': 'email+{}@gmail.com'.format(random.randint(1,10000)),  # email, don't change end
+	    'MMERGE3': '6062892345',  # phone number
             'ADDRESS[addr1]': '',  # Address Line 1
-			'ADDRESS[addr2]': '',  # Address Line 2 (optional)
-			'ADDRESS[city]' : '', #city
-			'ADDRESS[state]' : '', #state
-			'ADDRESS[zip]' : '', #zipcode
-			'ADDRESS[country]' : '', #country value 146 for USA view https://niggabin.com/unevimiluw.js for other countries value
+	    'ADDRESS[addr2]': '',  # Address Line 2 (optional)
+	    'ADDRESS[city]' : '', #city
+            'ADDRESS[state]' : '', #state
+	    'ADDRESS[zip]' : '', #zipcode
+	    'ADDRESS[country]' : '', #country value 146 for USA view https://niggabin.com/unevimiluw.js for other countries value
             'MMERGE5': '',  # size values in https://niggabin.com/usitucelic.xml
             'MMERGE4': '',  # for style values in https://niggabin.com/olivoxezef.xml
             'subscribe': "Submit",  # don't change
